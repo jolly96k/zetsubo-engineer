@@ -1,0 +1,12 @@
+main:
+  - name: カテゴリ
+    pageRef: /category
+    weight: 1
+  - pre: github
+    name: GitHubリポジトリ
+    url: https://github.com/jolly96k?tab=repositories
+    weight: 10
+  - pre: gitlab
+    name: GitLabリポジトリ
+    url: https://rm.zetsubo.net/explore
+    weight: 10
