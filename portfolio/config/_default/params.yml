@@ -1,0 +1,12 @@
+homepage:
+  showRecent: true
+
+article:
+  showDateUpdated: true
+  showBreadcrumbs: true
+  showReadingTime: false
+  showWordCount: false
+
+list:
+  showBreadcrumbs: true
+  # showCards: true
