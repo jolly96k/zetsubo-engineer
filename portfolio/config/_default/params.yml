@@ -1,3 +1,5 @@
+enableSearch: false
+
 homepage:
   showRecent: true
 
@@ -9,4 +11,3 @@ article:
 
 list:
   showBreadcrumbs: true
-  # showCards: true
