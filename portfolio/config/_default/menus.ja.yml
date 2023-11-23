@@ -1,6 +1,6 @@
 main:
-  - name: カテゴリ
-    pageRef: /category
+  - name: 投稿
+    pageRef: /post
     weight: 1
   - pre: github
     name: GitHubリポジトリ

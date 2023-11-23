@@ -7,7 +7,17 @@ article:
   showDateUpdated: true
   showBreadcrumbs: true
   showReadingTime: false
+  showTableOfContents: true
   showWordCount: false
+  sharingLinks:
+    - linkedin
+    - twitter
+    - reddit
+    - pinterest
+    - facebook
+    - email
+    - whatsapp
 
 list:
   showBreadcrumbs: true
+  showTableOfContents: true
