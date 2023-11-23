@@ -2,8 +2,7 @@
 
 set -euxo pipefail
 
-SCRIPT_DIRNAME=$(cd $(dirname $0) && pwd)
-HUGO_PROJECT_PATH=/usr/local/share/hugo_workspace/zetsubo-engineer/portfolio
+HUGO_PROJECT_PATH=$(cd $(dirname $0) && cd ../ && pwd)/portfolio
 
 cd ${HUGO_PROJECT_PATH}
 
